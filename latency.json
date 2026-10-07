@@ -1,0 +1,20 @@
+{
+  "device": "cpu",
+  "preprocess_ms": 0.6701869999960763,
+  "ResNet-18": {
+    "infer_ms": 20.571210999696632,
+    "std_ms": 1.385403548565325,
+    "fps_model_saja": 48.611625247281125,
+    "pipeline_ms": 21.24139799969271,
+    "fps_pipeline": 47.077880656182174,
+    "params_juta": 11.179077
+  },
+  "MobileNetV3-Small": {
+    "infer_ms": 6.1860630001319805,
+    "std_ms": 0.37798784316775824,
+    "fps_model_saja": 161.6537044609253,
+    "pipeline_ms": 6.856250000128057,
+    "fps_pipeline": 145.8523245186979,
+    "params_juta": 1.522981
+  }
+}
